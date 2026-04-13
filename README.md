@@ -67,7 +67,7 @@ print(df.head())
 | mesh.new      | available | $549.99   | —             | 74             | 83     | 4      | name.com  |
 | now.new       | premium   | —         | —             | 68             | 66     | 3      | —         |
 | mac.new       | available | $549.99   | —             | 84             | 82     | 3      | name.com  |
-| daily.new     | premium   | —         | —             | 74             | 40     | 5      | —         |
+| daily.new     | premium   | —         | —             | 74             | 39     | 5      | —         |
 | lego.new      | available | $549.99   | —             | 84             | 81     | 4      | name.com  |
 | short.new     | premium   | —         | —             | 76             | 36     | 5      | —         |
 | nike.new      | available | $549.99   | —             | 78             | 80     | 4      | name.com  |
