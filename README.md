@@ -1,22 +1,22 @@
-# Available .NEW One-Word Domains (4,771)
+# Available .NEW One-Word Domains (9,488)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
-  <img alt="public extract" src="https://img.shields.io/badge/public%20extract-4%2C771%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-4%2C771%20domains-6f42c1">
+  <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-9%2C488%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
 
-Daily-updated dataset of available and resale .new one-word domains from Unique Domains.
+Daily-updated public extract of available and resale .new one-word domains from Unique Domains.
 
-> **Note:** this repository currently mirrors the full live catalog for this exact search.
-> Unique Domains counts can still change as the search refreshes.
+> **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
+> The full live catalog for this exact search currently contains **9,488 domains** on the canonical page below.
 
-**Public extract:** 4,771 rows · **Live catalog:** 4,771 domains
+**Public extract:** 1,000 rows · **Live catalog:** 9,488 domains
 
-**Last updated:** 2026-04-13  
+**Last updated:** 2026-04-26  
 **Canonical page:** `https://unique.domains/domains/tld/new`  
 **Best for:** founders, investors, studios
 
@@ -43,8 +43,8 @@ This repository is the public extract for Unique Domains' .NEW one-word domain c
 
 ### Files
 
-- `new.csv` — public CSV extract (4,771 rows)
-- `new.json` — public JSON extract (4,771 rows)
+- `new.csv` — public CSV extract (1,000 rows)
+- `new.json` — public JSON extract (1,000 rows)
 - `DATA_DICTIONARY.md` — field definitions for the exported files
 - `METHODOLOGY.md` — scope, refresh policy, and caveats
 - `CHANGELOG.md` — latest snapshot metadata
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain        | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
-| ------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
-| mesh.new      | available | $549.99   | —             | 74             | 83     | 4      | name.com  |
-| now.new       | premium   | —         | —             | 68             | 66     | 3      | —         |
-| mac.new       | available | $549.99   | —             | 84             | 82     | 3      | name.com  |
-| daily.new     | premium   | —         | —             | 74             | 39     | 5      | —         |
-| lego.new      | available | $549.99   | —             | 84             | 81     | 4      | name.com  |
-| short.new     | premium   | —         | —             | 76             | 36     | 5      | —         |
-| nike.new      | available | $549.99   | —             | 78             | 80     | 4      | name.com  |
-| Microsoft.new | premium   | —         | —             | 88             | 30     | 9      | —         |
-| with.new      | available | $549.99   | —             | 69             | 74     | 4      | name.com  |
-| present.new   | premium   | —         | —             | 90             | 24     | 7      | —         |
-| impact.new    | available | $549.99   | —             | 74             | 73     | 6      | name.com  |
-| Martha.new    | premium   | —         | —             | 78             | 11     | 6      | —         |
-| converse.new  | available | $549.99   | $549.99       | 64             | 73     | 8      | name.com  |
-| matt.new      | available | $549.99   | —             | 72             | 71     | 4      | name.com  |
-| own.new       | available | $549.99   | —             | 90             | 70     | 3      | name.com  |
-| guess.new     | available | $549.99   | —             | 78             | 70     | 5      | name.com  |
-| fuck.new      | available | $549.99   | —             | 74             | 70     | 4      | name.com  |
-| adobe.new     | available | $549.99   | —             | 72             | 70     | 5      | name.com  |
-| mini.new      | available | $549.99   | —             | 70             | 70     | 4      | name.com  |
-| standard.new  | available | $549.99   | —             | 70             | 70     | 8      | name.com  |
+| domain           | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
+| ---------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
+| iPhone.new       | available | $601.98   | —             | 90             | 82     | 6      | namecheap |
+| CNN.new          | premium   | —         | —             | 78             | 22     | 3      | —         |
+| Minecraft.new    | available | $601.98   | —             | 91             | 81     | 9      | namecheap |
+| GermanReich.new  | premium   | —         | —             | 56             | 1      | 12     | —         |
+| MacBook.new      | available | $601.98   | —             | 90             | 74     | 7      | namecheap |
+| Mastercard.new   | available | $601.98   | —             | 90             | 69     | 10     | namecheap |
+| Skype.new        | available | $601.98   | —             | 86             | 65     | 5      | namecheap |
+| Nutella.new      | available | $601.98   | —             | 72             | 65     | 7      | namecheap |
+| Philips.new      | available | $601.98   | —             | 70             | 64     | 7      | namecheap |
+| Godzilla.new     | available | $601.98   | —             | 80             | 63     | 8      | namecheap |
+| our.new          | available | $549.99   | —             | 64             | 48     | 3      | name.com  |
+| sports.new       | available | $549.99   | —             | 92             | 45     | 6      | name.com  |
+| its.new          | available | $549.99   | —             | 78             | 43     | 3      | name.com  |
+| RGB.new          | available | $601.98   | —             | 76             | 39     | 3      | namecheap |
+| justin.new       | available | $549.99   | —             | 58             | 38     | 7      | name.com  |
+| howto.new        | available | $549.99   | —             | 76             | 35     | 6      | name.com  |
+| spectra.new      | available | $549.99   | —             | 62             | 34     | 7      | name.com  |
+| etc.new          | available | $549.99   | —             | 58             | 34     | 3      | name.com  |
+| birds.new        | available | $549.99   | —             | 61             | 30     | 5      | name.com  |
+| blackdiamond.new | available | $549.99   | —             | 70             | 29     | 13     | name.com  |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                                   |
 | ----------------------- | ------------------------------------------------ |
-| 4,771-row public sample | 4,771 live domains                               |
+| 1,000-row public sample | 9,488 live domains                               |
 | Static CSV / JSON       | live search and daily refresh                    |
 | Basic exported fields   | deeper price, demand, risk, and workflow context |
 | No persistence          | Radar, saved search, and alerts                  |
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .NEW One-Word Domains*. Version 2026-04-13. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .NEW One-Word Domains*. Version 2026-04-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
