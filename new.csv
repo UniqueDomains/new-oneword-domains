@@ -376,6 +376,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 149bde30-e3d1-4921-881f-04024286e35e,buzzed.new,available,549.99,,72,13,6,name.com,,
 14a50b42-a77f-401c-b64e-d62fe755365d,thisevening.new,available,549.99,,57,7,12,name.com,,
 14aa7f66-0917-4c14-8691-21161211a80d,winterblues.new,available,549.99,,65,1,12,name.com,,
+14aaa470-4b54-4bdc-a3b5-5d2b5aff600a,desktop.new,available,549.99,,76,21,7,name.com,,
 14b29e04-a0ec-45ca-9a82-f85312a9745f,setfoot.new,available,549.99,,70,1,8,name.com,,
 14b8ba8b-9098-4c46-8aac-3c0c00e0a945,clicking.new,available,549.99,,70,8,8,name.com,,
 14bbf382-0cea-45b0-8778-c5bd2b3403ec,commonlaw.new,available,549.99,,68,7,10,name.com,,
@@ -998,4 +999,3 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 33b4e92f-9e19-463f-a66c-88b54187386d,drycleaning.new,available,549.99,,74,9,11,name.com,,
 33b9141b-ad8b-4666-8b49-80c88637e419,primes.new,available,549.99,,56,13,6,name.com,,
 33c00540-4380-4ab9-ba7b-ea5711c7075c,filesize.new,available,549.99,,64,2,9,name.com,,
-33dd0aaa-81d1-49e7-bf8f-7e010fca20c0,purplenotice.new,available,549.99,,60,1,13,name.com,,
