@@ -71,9 +71,9 @@ print(df.head())
 | jewels.new      | available | $549.99   | —             | 80             | 15     | 6      | name.com  |
 | ladies.new      | available | $549.99   | —             | 80             | 17     | 6      | name.com  |
 | barup.new       | available | $549.99   | —             | 82             | 2      | 6      | name.com  |
-| carrie.new      | available | $549.99   | —             | 82             | 11     | 6      | name.com  |
+| carrie.new      | available | $549.99   | —             | 82             | 10     | 6      | name.com  |
 | MacBook.new     | available | $601.98   | —             | 90             | 75     | 7      | namecheap |
-| CNN.new         | premium   | —         | —             | 78             | 22     | 3      | —         |
+| CNN.new         | premium   | —         | —             | 78             | 27     | 3      | —         |
 | Mastercard.new  | available | $601.98   | —             | 90             | 69     | 10     | namecheap |
 | GermanReich.new | premium   | —         | —             | 56             | 1      | 12     | —         |
 | Philips.new     | available | $601.98   | —             | 70             | 64     | 7      | namecheap |
