@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .new one-word domains from 
 
 **Public extract:** 1,000 rows · **Live catalog:** 9,980 domains · **Median ask:** $552.71 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-11  
+**Last updated:** 2026-05-13  
 **Canonical page:** `https://unique.domains/domains/tld/new`  
 **Best for:** founders, investors, studios
 
@@ -65,8 +65,8 @@ print(df.head())
 | domain          | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
 | --------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
 | Trex.new        | available | $601.98   | —             | 80             | 24     | 5      | namecheap |
-| Laura.new       | available | $601.98   | —             | 84             | 28     | 5      | namecheap |
-| Skype.new       | available | $601.98   | —             | 86             | 65     | 5      | namecheap |
+| Laura.new       | available | $601.98   | —             | 84             | 29     | 5      | namecheap |
+| Skype.new       | available | $601.98   | —             | 86             | 66     | 5      | namecheap |
 | hahaha.new      | available | $549.99   | —             | 80             | 17     | 6      | name.com  |
 | jewels.new      | available | $549.99   | —             | 80             | 15     | 6      | name.com  |
 | ladies.new      | available | $549.99   | —             | 80             | 17     | 6      | name.com  |
@@ -76,8 +76,8 @@ print(df.head())
 | CNN.new         | premium   | —         | —             | 78             | 27     | 3      | —         |
 | Mastercard.new  | available | $601.98   | —             | 90             | 69     | 10     | namecheap |
 | GermanReich.new | premium   | —         | —             | 56             | 1      | 12     | —         |
-| Philips.new     | available | $601.98   | —             | 70             | 64     | 7      | namecheap |
 | Godzilla.new    | available | $601.98   | —             | 80             | 63     | 8      | namecheap |
+| Philips.new     | available | $601.98   | —             | 70             | 63     | 7      | namecheap |
 | our.new         | available | $549.99   | —             | 64             | 48     | 3      | name.com  |
 | RGB.new         | available | $601.98   | —             | 76             | 39     | 3      | namecheap |
 | justin.new      | available | $549.99   | —             | 58             | 38     | 7      | name.com  |
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .NEW One-Word Domains*. Version 2026-05-11. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .NEW One-Word Domains*. Version 2026-05-13. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
