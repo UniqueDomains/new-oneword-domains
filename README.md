@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .new one-word domains from 
 
 **Public extract:** 1,000 rows · **Live catalog:** 9,981 domains · **Median ask:** $552.71 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-15  
+**Last updated:** 2026-05-26  
 **Canonical page:** `https://unique.domains/domains/tld/new`  
 **Best for:** founders, investors, studios
 
@@ -80,9 +80,9 @@ print(df.head())
 | Philips.new     | available | $601.98   | —             | 70             | 63     | 7      | namecheap |
 | our.new         | available | $549.99   | —             | 64             | 48     | 3      | name.com  |
 | justin.new      | available | $549.99   | —             | 58             | 38     | 7      | name.com  |
-| howto.new       | available | $549.99   | —             | 76             | 35     | 6      | name.com  |
 | spectra.new     | available | $549.99   | —             | 62             | 34     | 7      | name.com  |
 | etc.new         | available | $549.99   | —             | 58             | 34     | 3      | name.com  |
+| howto.new       | available | $549.99   | —             | 76             | 33     | 6      | name.com  |
 | RGB.new         | available | $601.98   | —             | 76             | 30     | 3      | namecheap |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .NEW One-Word Domains*. Version 2026-05-15. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .NEW One-Word Domains*. Version 2026-05-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
