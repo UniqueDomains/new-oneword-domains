@@ -81,8 +81,8 @@ print(df.head())
 | our.new         | available | $549.99   | —             | 64             | 48     | 3      | name.com  |
 | justin.new      | available | $549.99   | —             | 58             | 38     | 7      | name.com  |
 | spectra.new     | available | $549.99   | —             | 62             | 34     | 7      | name.com  |
-| etc.new         | available | $549.99   | —             | 58             | 34     | 3      | name.com  |
 | howto.new       | available | $549.99   | —             | 76             | 33     | 6      | name.com  |
+| etc.new         | available | $549.99   | —             | 58             | 32     | 3      | name.com  |
 | RGB.new         | available | $601.98   | —             | 76             | 30     | 3      | namecheap |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
