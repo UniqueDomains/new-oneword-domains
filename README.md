@@ -1,10 +1,10 @@
-# Available .NEW One-Word Domains (9,981)
+# Available .NEW One-Word Domains (9,984)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-9%2C981%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-9%2C984%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,12 +12,12 @@
 Daily-updated public extract of available and resale .new one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **9,981 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **9,984 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 9,981 domains · **Median ask:** $552.71 · **High-demand under $2,500:** 0
+**Public extract:** 1,000 rows · **Live catalog:** 9,984 domains · **Median ask:** $550.23 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-26  
-**Canonical page:** `https://unique.domains/domains/tld/new`  
+**Last updated:** 2026-07-07
+**Canonical page:** `https://unique.domains/domains/tld/new`
 **Best for:** founders, investors, studios
 
 ---
@@ -43,13 +43,13 @@ This repository is the public extract for Unique Domains' .NEW one-word domain c
 
 ### Files
 
-- `new.csv` — public CSV extract (1,000 rows)
-- `new.json` — public JSON extract (1,000 rows)
-- `DATA_DICTIONARY.md` — field definitions for the exported files
-- `METHODOLOGY.md` — scope, refresh policy, and caveats
-- `CHANGELOG.md` — latest snapshot metadata
-- `CITATION.cff` — machine-readable dataset citation metadata
-- `LICENSE` — terms for the public extract
+- `new.csv`, public CSV extract (1,000 rows)
+- `new.json`, public JSON extract (1,000 rows)
+- `DATA_DICTIONARY.md`, field definitions for the exported files
+- `METHODOLOGY.md`, scope, refresh policy, and caveats
+- `CHANGELOG.md`, latest snapshot metadata
+- `CITATION.cff`, machine-readable dataset citation metadata
+- `LICENSE`, terms for the public extract
 
 ## 🧭 Quick start
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain          | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
-| --------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
-| Trex.new        | available | $601.98   | —             | 80             | 24     | 5      | namecheap |
-| Laura.new       | available | $601.98   | —             | 84             | 29     | 5      | namecheap |
-| Skype.new       | available | $601.98   | —             | 86             | 66     | 5      | namecheap |
-| hahaha.new      | available | $549.99   | —             | 80             | 17     | 6      | name.com  |
-| jewels.new      | available | $549.99   | —             | 80             | 15     | 6      | name.com  |
-| ladies.new      | available | $549.99   | —             | 80             | 17     | 6      | name.com  |
-| barup.new       | available | $549.99   | —             | 82             | 2      | 6      | name.com  |
-| carrie.new      | available | $549.99   | —             | 82             | 10     | 6      | name.com  |
-| MacBook.new     | available | $601.98   | —             | 90             | 75     | 7      | namecheap |
-| CNN.new         | premium   | —         | —             | 78             | 27     | 3      | —         |
-| Mastercard.new  | available | $601.98   | —             | 90             | 69     | 10     | namecheap |
-| GermanReich.new | premium   | —         | —             | 56             | 1      | 12     | —         |
-| Godzilla.new    | available | $601.98   | —             | 80             | 63     | 8      | namecheap |
-| Philips.new     | available | $601.98   | —             | 70             | 63     | 7      | namecheap |
-| our.new         | available | $549.99   | —             | 64             | 48     | 3      | name.com  |
-| justin.new      | available | $549.99   | —             | 58             | 38     | 7      | name.com  |
-| spectra.new     | available | $549.99   | —             | 62             | 34     | 7      | name.com  |
-| howto.new       | available | $549.99   | —             | 76             | 33     | 6      | name.com  |
-| etc.new         | available | $549.99   | —             | 58             | 32     | 3      | name.com  |
-| RGB.new         | available | $601.98   | —             | 76             | 30     | 3      | namecheap |
+| domain         | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
+| -------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
+| aaa.new        | available | $549.99   | —             | high           | medium | 3      | name.com  |
+| conclusive.new | premium   | $549.99   | —             | medium         | low    | 10     | name.com  |
+| aid.new        | available | $549.99   | —             | medium         | low    | 3      | name.com  |
+| aim.new        | available | $549.99   | —             | high           | low    | 3      | name.com  |
+| atp.new        | available | $549.99   | —             | medium         | low    | 3      | name.com  |
+| awe.new        | available | $549.99   | —             | high           | low    | 3      | name.com  |
+| bar.new        | available | $549.99   | —             | high           | low    | 3      | name.com  |
+| beg.new        | available | $549.99   | —             | medium         | low    | 3      | name.com  |
+| ben.new        | available | $549.99   | —             | high           | medium | 3      | name.com  |
+| bid.new        | available | $549.99   | —             | high           | low    | 3      | name.com  |
+| bro.new        | available | $549.99   | —             | medium         | low    | 3      | name.com  |
+| but.new        | available | $549.99   | —             | high           | low    | 3      | name.com  |
+| bye.new        | available | $549.99   | —             | high           | low    | 3      | name.com  |
+| con.new        | available | $549.99   | —             | medium         | low    | 3      | name.com  |
+| cot.new        | available | $549.99   | —             | high           | low    | 3      | name.com  |
+| day.new        | available | $549.99   | —             | high           | low    | 3      | name.com  |
+| dew.new        | available | $549.99   | —             | medium         | low    | 3      | name.com  |
+| dig.new        | available | $549.99   | —             | high           | low    | 3      | name.com  |
+| Eid.new        | available | $549.99   | —             | high           | low    | 3      | name.com  |
+| eve.new        | available | $549.99   | —             | high           | medium | 3      | name.com  |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 9,981 live domains                         |
+| 1,000-row public sample | 9,984 live domains                         |
 | Static CSV / JSON       | live search and daily refresh              |
 | Basic exported fields   | 0 high-demand names under $2,500           |
 | No persistence          | Radar, saved search, and alerts            |
@@ -105,27 +105,27 @@ If this sample already feels useful, Unique Domains is where the exact search be
 
 ## 🧱 Field summary
 
-- `domain` — Fully qualified domain name.
-- `status` — Current acquisition state for the domain in the public extract.
-- `purchase_price` — Visible purchase price when available.
-- `renewal_price` — Visible renewal price when available.
-- `attractiveness` — Composite naming score used as a decision-support signal.
-- `demand` — Relative buyer-pressure score when available.
-- `length` — Character count without the TLD.
-- `registrar` — Registrar name when known.
-- `created_at` — Creation timestamp when known.
-- `expires_at` — Expiry timestamp when known.
+- `domain`, Fully qualified domain name.
+- `status`, Current acquisition state for the domain in the public extract.
+- `purchase_price`, Visible purchase price when available.
+- `renewal_price`, Visible renewal price when available.
+- `attractiveness`, Public composite naming band used as a decision-support signal.
+- `demand`, Public buyer-pressure band when available.
+- `length`, Character count without the TLD.
+- `registrar`, Registrar name when known.
+- `created_at`, Creation timestamp when known.
+- `expires_at`, Expiry timestamp when known.
 
 See [DATA_DICTIONARY.md](./DATA_DICTIONARY.md) for full definitions and types.
 
 ## ⚠️ Methodology and caveats
 
-This selection focuses only on one-word .new domains. It includes short generic words, first names, acronym-like terms, and brand-sensitive strings such as NYC.new, desk.new, tips.new, Liam.new, and Audi.new. The median ask is $553, which puts many of these names in a range where buyers can compare several options side by side. For founders, the main question is whether the word is memorable, ownable, and clear enough to support a brand. For investors, the key is whether the word has broad appeal, clean commercial meaning, and manageable trademark risk relative to its ask.
+This list covers one-word domain names on the .new extension, a TLD built for launch-ready projects and simple, memorable names. With 9,984 listings and a median ask near $550, the selection spans single words that read as clean, ownable names rather than compound phrases. Compare asking price, length, and word familiarity to separate strong buys from long shots.
 
-- Prioritize clear generic words over brand-sensitive terms
-- Use the $553 median ask as a price reality check
-- Short words help memorability, but context still matters
-- Names and famous marks need stricter trademark review
+- 9,984 one-word .new domains tracked, updated daily
+- Median ask near $550 — gauge pricing before you buy
+- Pure one-word names: no hyphens, numbers, or compounds
+- Weigh brandability against renewal cost before buying
 
 See [METHODOLOGY.md](./METHODOLOGY.md) for the full methodology reference.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .NEW One-Word Domains*. Version 2026-05-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .NEW One-Word Domains*. Version 2026-07-07. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
