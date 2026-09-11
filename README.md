@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .new one-word domains from 
 
 **Public extract:** 1,000 rows · **Live catalog:** 21,709 domains · **Median ask:** $517.20 · **High-demand under $2,500:** 26
 
-**Last updated:** 2026-09-10
+**Last updated:** 2026-09-11
 **Canonical page:** `https://unique.domains/domains/tld/new`
 **Best for:** founders, investors, studios
 
@@ -64,12 +64,6 @@ print(df.head())
 
 | domain         | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
 | -------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
-| okay.new       | available | $549.99   | $549.99       | high           | low    | 4      | name.com  |
-| flat.new       | available | $549.99   | $549.99       | high           | low    | 4      | name.com  |
-| overnight.new  | available | $549.99   | $549.99       | high           | low    | 9      | name.com  |
-| above.new      | available | $549.99   | $549.99       | high           | low    | 5      | name.com  |
-| warm.new       | available | $549.99   | $549.99       | high           | low    | 4      | name.com  |
-| custom.new     | available | $549.99   | $549.99       | high           | low    | 6      | name.com  |
 | aaa.new        | available | $549.99   | —             | high           | medium | 3      | name.com  |
 | conclusive.new | premium   | $549.99   | —             | medium         | low    | 10     | name.com  |
 | aid.new        | available | $549.99   | —             | medium         | low    | 3      | name.com  |
@@ -84,6 +78,12 @@ print(df.head())
 | but.new        | available | $549.99   | —             | high           | low    | 3      | name.com  |
 | bye.new        | available | $549.99   | —             | high           | low    | 3      | name.com  |
 | con.new        | available | $549.99   | —             | medium         | low    | 3      | name.com  |
+| cot.new        | available | $549.99   | —             | high           | low    | 3      | name.com  |
+| day.new        | available | $549.99   | —             | high           | low    | 3      | name.com  |
+| dew.new        | available | $549.99   | —             | medium         | low    | 3      | name.com  |
+| dig.new        | available | $549.99   | —             | high           | low    | 3      | name.com  |
+| Eid.new        | available | $549.99   | —             | high           | low    | 3      | name.com  |
+| eve.new        | available | $549.99   | —             | high           | medium | 3      | name.com  |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .NEW One-Word Domains*. Version 2026-09-10. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .NEW One-Word Domains*. Version 2026-09-11. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
